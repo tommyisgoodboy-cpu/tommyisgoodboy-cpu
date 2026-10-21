@@ -13,7 +13,7 @@ IT support engineer from Hong Kong. I like building small tools that remove the 
 ## Live demos
 
 - [Yoga studio site](https://yoga-demo-rosy.vercel.app)
-- [Beauty salon site](https://beautyjapan-ten.vercel.app)
+- [Japan and Korea cosmetics shop](https://beautyjapan-ten.vercel.app)
 
 ## Background
 
